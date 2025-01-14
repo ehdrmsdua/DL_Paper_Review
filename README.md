@@ -1,2 +1,4 @@
 # DL_Paper_Review
-2025.01-
+
+### 1. Attention is all you need
+link: https://dg1202.tistory.com/1
